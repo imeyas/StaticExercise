@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3d20a5e6-d927-47fa-8ab6-7174bd25d18c": {
+      "ProjectGuid": "3d20a5e6-d927-47fa-8ab6-7174bd25d18c",
+      "DisplayName": "StaticExercise",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
